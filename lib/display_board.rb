@@ -6,4 +6,4 @@
     puts "-----------"
     puts "   |   |   "
   end
-  puts display_board
+  return display_board
