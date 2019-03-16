@@ -7,3 +7,4 @@
   puts "-----------"
   puts "   |   |   "
   end
+  return display_board
